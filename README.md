@@ -1,5 +1,7 @@
 # The 2026 AI Engineering Production Starter Stack with Claude Code
 
+Source Medium Article: 
+
 A lean, ready to drop in scaffold for running [Claude Code](https://docs.claude.com/claude-code) on a project conventions, subagents, a release skill, and automated PR review, all pre-wired.
 
 ## What's inside
