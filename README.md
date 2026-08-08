@@ -25,7 +25,7 @@
   ·
   <a href="#contributing">Contributing</a>
   ·
-  <a href="#build-your-own-ai-engineering-stack">Work With Me</a>
+  <a href="#build-this-into-your-own-ai-engineering-stack">Work With Me</a>
 </p>
 
 ---
